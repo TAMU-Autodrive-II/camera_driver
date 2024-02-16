@@ -8,12 +8,12 @@ This repository contains ROS packages for cameras made by FLIR Imaging (formerly
    - Serial: 21066574
    - IP Adress: 192.168.0.11
    - Model: [Blackfly S BFS-PGE-120S4C](https://www.flir.com/products/blackfly-s-gige/?model=BFS-PGE-120S4C-CS&vertical=machine+vision&segment=iis)
-   - Lens: ???
+   - Lens: [FE185C086HA](https://www.fujifilm.com/us/en/business/optical-devices/machine-vision-lens/fe185-series)
 
 2. **Center Camera (USB)**
    - Topic Name: *"/cam_usb"*
-   - Serial: ???
-   - IP Adress: ???
+   - Serial: 22447321
+   - IP Adress: - (No ip)
    - Model: [Blackfly S BFS-U3-200S6C-C](https://www.flir.com/products/blackfly-s-usb3/?model=BFS-U3-200S6C-C&vertical=machine+vision&segment=iis) (please confirm)
    - Lens: ???
 
